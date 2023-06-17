@@ -1,0 +1,24 @@
+Hi Folks,
+
+This is an open project that I am asking the GitHub community for assistance with please. I have Parkinson's Disease and I am no longer able to work. Thus, I live on a small fixed income and I cannot afford the expense of hiring a programmer.
+
+Here's what I need a program to do for me. There are excellent free webinars on the Zoom on topics that are related to my illness. Some of them are recorded and then put up on YouTube. However, most of them are not. I am not always in a position to watch them live as well. I really need help with creating a Python script (I think this is the way to go) using the Firefox, Zoom and OBS Studio API's to automatically do the following tasks:
+
+1. Start program
+2. Go to a Zoom meeting via a URL using Firefox at a specified time
+3. Turn Off Zoom Video
+4. Mute microphone in Zoom
+5. Start OBS Studio
+6. Start Recording in OBS Studio
+7. Set a timer for XX minutes (length of webinar)
+8. Stop recording in OBS Studio
+9. Close OBS Studio
+10. Leave Meeting in Zoom
+11. Close Zoom
+12. End program
+
+I am a complete newbie to using Visual Studio and to programming in general. I am relying hopefully on the generosity of the GitHub community to assist me with this program, that once completed, I would share with the worldwide Parkinson's community, who like me, would appreciate and be able to use it. Thanks in advance for any and all assistance, guidance and help provided.
+
+Sincerely,
+
+Roger
